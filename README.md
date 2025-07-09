@@ -1,1 +1,1 @@
-# hibernate-one-to-many-demo
+#  Hibernate OneToMany and ManyToOne mapping demo
