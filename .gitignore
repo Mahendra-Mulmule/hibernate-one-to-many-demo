@@ -1,0 +1,10 @@
+# Java + Eclipse
+*.class
+*.log
+*.iml
+.idea/
+target/
+bin/
+.project
+.classpath
+.settings/
