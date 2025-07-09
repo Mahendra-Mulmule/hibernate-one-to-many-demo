@@ -1,4 +1,4 @@
-#  Hibernate OneToMany and ManyToOne mapping demo
+
 # Hibernate OneToMany / ManyToOne Mapping
 
 This is a simple Java console-based project demonstrating:
